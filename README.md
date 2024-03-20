@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DTM10
-- 👀 I’m interested in iOS development as well as Web Development.
-- 🌱 I’m currently learning iOS Development as my first programming language. Actually, I'm switching my professional path since I'm a Civil Engineer but I always have been passionate about the IT industry and technology.
-- 💞️ I’m looking to collaborate on projects in iOS Development that can help me improve my skills and also help me to be ready to look for a job in the industry.
+- 👋 Hi, I’m Diego
+- 👀 I’m interested in Web Development and Mobile Development.
+- 🌱 I’m currently finishing my studies at Fanshawe College in Web Development and Internet Applications.
+- 💞️ I’m looking to collaborate on projects in Web Development or Mobile Development using React Native that can help me improve my skills and also help me to be ready to look for a job in the industry.
 - 📫 How to reach me? You can reach me at diegotertomartins@gmail.com
 
 <!---
