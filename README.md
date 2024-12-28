@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego
-- 👀 I’m interested in Web Development and Mobile Development.
+- 👀 I’m currently working as a Fullstack Developer.
 - 🌱 Graduated at Fanshawe College in Web Development and Internet Applications.
 - 💞️ I’m looking to collaborate on projects in Web Development or Mobile Development using React Native that can help me improve my skills and also help me to be ready to look for a job in the industry.
 - 📫 How to reach me? You can reach me at contact@diegotertomartinsdev.com
